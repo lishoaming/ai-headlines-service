@@ -25,4 +25,5 @@ methods = [
 headers = [
     "Content-Type",
     "Authorization",
+    "Accept",  # SSE/流式请求需要
 ]
